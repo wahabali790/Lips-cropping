@@ -1,0 +1,4 @@
+models/dlib-19.23.0-cp39-cp39-win_amd64.whl
+opencv-python==4.5.3.56
+moviepy==1.0.3
+Flask==3.0.2
